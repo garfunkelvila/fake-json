@@ -6,9 +6,11 @@
       "password": "test"
     }
   ],
-  "todos": {
-    "title": "this is title",
-    "date": "01/01/2000",
-    "isCompleted": true
-  }
+  "todos": [
+    {
+      "title": "this is title",
+      "date": "01/01/2000",
+      "isCompleted": true
+    }
+  ]
 }
