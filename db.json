@@ -11,7 +11,7 @@
       "id": 1,
       "title": "this is title",
       "date": "01/01/2000",
-      "isCompleted": true
+      "isFinished": true
     }
   ]
 }
